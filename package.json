@@ -1,0 +1,30 @@
+{
+  "name": "react_sample_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bairon29/React_Sample_App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bairon29/React_Sample_App/issues"
+  },
+  "homepage": "https://github.com/Bairon29/React_Sample_App#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "graceful-fs": "^4.1.15",
+    "jsonwebtoken": "^8.4.0",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.8",
+    "nodemon": "^1.18.9"
+  }
+}
